@@ -22,7 +22,6 @@ L_f = 1.44;
 %speed control
 Tload = 0;
 speed_ref = 4500; %rpm (471.2389 rad/s)
-Pmax = 5600; %P=TW
 speed_base = 2500*2*pi/60;
 
 
