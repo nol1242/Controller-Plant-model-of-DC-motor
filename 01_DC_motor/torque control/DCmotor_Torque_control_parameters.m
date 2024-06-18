@@ -20,8 +20,8 @@ L_f = 1.44;
 
 
 %Torque control
-Tref = 20;
-Tload = 20;
+Tref = 10;
+Tload = 10;
 
 %speed = out.yout{1}.Values.Data;
 %Torque = out.yout{2}.Values.Data;
